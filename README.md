@@ -17,3 +17,8 @@ OR
 1. Download the files.
 2. Extract the compressed file into a local folder
 3. Open 'index.html'
+
+
+# Roadmap of future improvements
+
+For user to be able to customise what route they wish to see.
