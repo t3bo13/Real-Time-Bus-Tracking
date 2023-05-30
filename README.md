@@ -10,7 +10,7 @@ The Real-Time-Bus-Tracking is a program that displays a map with a bus route whi
 
 To get a local copy of the project up and running, follow these steps:
 
-1. Fork the repository and clone: 
+1. Fork the repository and clone: https://github.com/t3bo13/Real-Time-Bus-Tracking/tree/main
 
 OR 
 
